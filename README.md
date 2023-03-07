@@ -26,4 +26,4 @@
 ## Conclusion
 - This project is really challenging because the dataset's label have heavily imbalanced ratio of fraud : non-fraud is 1:99, but we are able to build a model that could suffice our objective (for now) with high precision (99%)
 - On fraud detection system both precision and recall are important, but on this project we will focus on precision because we want our model to actually predict transactions that most likely to be fraudulent and the XGBoost model seems to be the best for it, since it have 99% precision and 80% f1-score.
-Need more research about whether there is actually a way to handle this kind of heavily imbalanced data
+- Need more research about whether there is actually a way to handle this kind of heavily imbalanced data
