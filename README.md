@@ -18,7 +18,7 @@
 - newbalanceDest: the new balance of recipient after the transaction
 - isFraud: fraud transaction
 
-## Project Aim:
+## Project Aim
 - Classify potential fraud transaction based on numerical and categorical features
 - Selecting best algorithm to handle heavily imbalanced dataset
 - Create a machine learning model with respective good metrics for fraud transaction case (precision)
